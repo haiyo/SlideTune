@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "655104614346",
+    "project_id": "slidetunes-ec009",
+    "storage_bucket": "slidetunes-ec009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655104614346:android:b36e9d7ebf6b1422787933",
+        "android_client_info": {
+          "package_name": "com.slidetunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655104614346-b07mlh8ibnilrfvd3vqg2tivjt2n0u9a.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.slidetunes",
+            "certificate_hash": "263a1a83fad4242b6e0adef02fa081f8fa22386d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDXjBtaJbRY4wwGM9MV3OUQrT9YuQQcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
